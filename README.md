@@ -3,7 +3,7 @@
 ### <div align="center"> 📖 Estudo ciência da computação na Universidade de São Paulo. </div>  
   
 
-### <div align="center"> 🔭 Trabalho com ciência de dados aprendizado de máquina  </div>  
+### <div align="center"> 🔭 Trabalho com ciência de dados, aprendizado de máquina e densenvolvimento de software  </div>  
   
 
 ### <div align="center"> 🌱Aprendendo sobre desenvolvimento de jogos   </div>  
