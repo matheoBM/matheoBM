@@ -12,9 +12,13 @@
 <br/>  
 
 ## Alguns Projetos 
+### Data Analysis
+- [Análise de dados de pacientes apneicos utilizando Python](https://github.com/matheoBM/SleepApnea)
+- [Utilizando Índices de Variabilidade de Frequência Cardíaca e ML para Prever Profundidade de Anestesia](https://github.com/matheoBM/Depth-of-general-anesthesia-in-patients)
+
+### Dev
 - [Mango Game/Projeto em Unity](https://github.com/matheoBM/MangoGame)
 - [Versão Simples do Jogo da Cobrinha](https://github.com/matheoBM/Snake-Game)
-- [Análise de dados de pacientes apneicos utilizando Python](https://github.com/matheoBM/SleepApnea)
 - [Plugin em Java para reconhecimento de padrões em imagens](https://github.com/lucasz2/Projeto-RPI)
 - [Simulador de Gerente de Memória em Java](https://github.com/luancardoso35/GerenteDeMemoria)
 - [Projeto WebDev](https://github.com/luancardoso35/trabalho-devWeb)
