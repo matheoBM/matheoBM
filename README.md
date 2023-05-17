@@ -1,6 +1,6 @@
 ![Apresentação1](https://user-images.githubusercontent.com/51725829/185687793-437167b8-620f-4e58-8813-bb7d0679aa48.jpg)
 
-### <div align="center"> 📖 Estudo ciência da computação na Universidade de São Paulo. </div>  
+### <div align="center"> 📖 Formado em ciência da computação pela Universidade de São Paulo. </div>  
   
 
 ### <div align="center"> 🔭 Trabalho com ciência de dados, aprendizado de máquina e densenvolvimento de software  </div>  
