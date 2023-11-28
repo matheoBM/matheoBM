@@ -13,6 +13,7 @@
 
 ## Alguns Projetos 
 ### Data Analysis
+- [API do YouTube: Analisando Estatisticas de Canais](https://github.com/matheoBM/youtube_api)
 - [Análise de dados de pacientes apneicos utilizando Python](https://github.com/matheoBM/SleepApnea)
 - [Utilizando Índices de Variabilidade de Frequência Cardíaca e ML para Prever Profundidade de Anestesia](https://github.com/matheoBM/Depth-of-general-anesthesia-in-patients)
 
