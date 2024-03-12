@@ -18,6 +18,7 @@
 - [Utilizando Índices de Variabilidade de Frequência Cardíaca e ML para Prever Profundidade de Anestesia](https://github.com/matheoBM/Depth-of-general-anesthesia-in-patients)
 
 ### Dev
+- [Jetpack Game - C# and Unity](https://github.com/matheoBM/3D-Unity-Course-Jetpack-Heist)
 - [Mango Game/Projeto em Unity](https://github.com/matheoBM/MangoGame)
 - [Versão Simples do Jogo da Cobrinha](https://github.com/matheoBM/Snake-Game)
 - [Plugin em Java para reconhecimento de padrões em imagens](https://github.com/lucasz2/Projeto-RPI)
