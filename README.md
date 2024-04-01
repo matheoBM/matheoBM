@@ -1,19 +1,19 @@
 ![Apresentação1](https://user-images.githubusercontent.com/51725829/185687793-437167b8-620f-4e58-8813-bb7d0679aa48.jpg)
 
-### <div align="center"> 📖 Formado em ciência da computação pela Universidade de São Paulo. </div>  
+### <div align="center"> 📖 Graduated in Computer Science by Universidade of Sao Paulo </div>  
   
 
-### <div align="center"> 🔭 Trabalho com ciência de dados, aprendizado de máquina e densenvolvimento de software  </div>  
+### <div align="center"> 🔭 Working with data science, machine learning and sofware development  </div>  
   
 
-### <div align="center"> 🌱Aprendendo sobre desenvolvimento de jogos   </div>  
+### <div align="center"> 🌱Learning about game dev   </div>  
   
 
 <br/>  
 
-## Alguns Projetos 
+## Some projects 
 ### Data Analysis
-- [API do YouTube: Analisando Estatisticas de Canais](https://github.com/matheoBM/youtube_api)
+- [YouTube API: Analisando Estatisticas de Canais](https://github.com/matheoBM/youtube_api)
 - [Análise de dados de pacientes apneicos utilizando Python](https://github.com/matheoBM/SleepApnea)
 - [Utilizando Índices de Variabilidade de Frequência Cardíaca e ML para Prever Profundidade de Anestesia](https://github.com/matheoBM/Depth-of-general-anesthesia-in-patients)
 
