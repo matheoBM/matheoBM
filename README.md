@@ -12,6 +12,9 @@
 <br/>  
 
 ## Some projects 
+### Data Engineering
+- [Steam API Data Ingestion with Airflow](https://github.com/matheoBM/steam-data-engineering)
+
 ### Data Analysis
 - [YouTube API: Analisando Estatisticas de Canais](https://github.com/matheoBM/youtube_api)
 - [Análise de dados de pacientes apneicos utilizando Python](https://github.com/matheoBM/SleepApnea)
