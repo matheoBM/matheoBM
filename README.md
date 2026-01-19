@@ -6,7 +6,7 @@
 ### <div align="center"> 🔭 Working with data science, machine learning and sofware development  </div>  
   
 
-### <div align="center"> 🌱Learning about game dev   </div>  
+<!--  ### <div align="center"> 🌱Learning about game dev   </div>  -->
   
 
 <br/>  
@@ -28,13 +28,14 @@
 - [Tower Defense Game - C# and Unity](https://github.com/matheoBM/Tower-Defense)
 - [Dragon Rail Shooter - C# and Unity (In progress)](https://github.com/matheoBM/Dragon-Rail-Shooter)
 - [Jetpack Game - C# and Unity](https://github.com/matheoBM/3D-Unity-Course-Jetpack-Heist)
-- [Mango Game/Projeto em Unity](https://github.com/matheoBM/MangoGame)
-- [Versão Simples do Jogo da Cobrinha](https://github.com/matheoBM/Snake-Game)
 - [Plugin em Java para reconhecimento de padrões em imagens](https://github.com/lucasz2/Projeto-RPI)
 - [Simulador de Gerente de Memória em Java](https://github.com/luancardoso35/GerenteDeMemoria)
 - [Projeto WebDev](https://github.com/luancardoso35/trabalho-devWeb)
-- [Planetas em 3D usando OpenGL](https://github.com/matheoBM/OpenGl-PlanetView)
-- [Wallpaper Changer](https://github.com/matheoBM/WallpaperChanger)
+<!-- - [Planetas em 3D usando OpenGL](https://github.com/matheoBM/OpenGl-PlanetView)
+- [Wallpaper Changer](https://github.com/matheoBM/WallpaperChanger) 
+- [Mango Game/Projeto em Unity](https://github.com/matheoBM/MangoGame)
+- [Versão Simples do Jogo da Cobrinha](https://github.com/matheoBM/Snake-Game)
+-->
 
 ## Contatos
 - Email: matheomarumo@gmail.com
