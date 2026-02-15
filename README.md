@@ -13,6 +13,7 @@
 
 ## Some projects 
 ### Data Engineering
+- [Spotify Song History Dashboard](https://github.com/matheoBM/spotify-etl-pipeline)
 - [Steam API Data Ingestion with Airflow](https://github.com/matheoBM/steam-data-engineering)
 
 ### Data Analysis
